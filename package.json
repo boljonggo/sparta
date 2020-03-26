@@ -1,0 +1,23 @@
+{
+  "name": "sparta",
+  "version": "1.0.0",
+  "description": "First Node.js Server Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-boljonggo:boljonggo/sparta.git"
+  },
+  "keywords": [
+    "sparta",
+    "nodejs",
+    "node.js"
+  ],
+  "author": "boljonggo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,17 @@
+.vscode
+.vscode/**/*
+
+.idea
+.idea/**/*
+
+.DS_Store
+.history
+.env
+
+node_modules
+node_modules/**/*
+
+npm-debug.log.*
+logs/*
+
+#package-lock.json
